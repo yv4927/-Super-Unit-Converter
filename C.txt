@@ -1,0 +1,43 @@
+SAMPLE OUTPUT 1:
+Welcome to Super Unit Converter! 
+Here is a list of conversation to choose from: 
+Temperature(T),Currency(C),Mass(M) 
+Please enter the letter you want to convert.
+T
+Welcome to Temperature Converter! 
+Here is a list of conversations to choose from: 
+Enter 1 for Fahrenheit to Celsius. 
+Enter 2 for Celsius to Fahrenheit. 
+^[[B    1
+Please enter the Fahrenheit degree: 
+197
+Celcius: 91
+SAMPLE OUTPUT 2:
+Welcome to Super Unit Converter! 
+Here is a list of conversation to choose from: 
+Temperature(T),Currency(C),Mass(M) 
+Please enter the letter you want to convert.
+C
+Welcome to Currency Converter! 
+Here is a list of conversations to choose from: 
+Enter 1 for USD to Euro. 
+Enter 2 for USD to RUPEE . 
+Enter 3 for USD to RMB. 
+2
+Please enter the USD amount: 
+100
+RUPEE: 7666.00
+SAMPLE OUTPUT3:
+Welcome to Super Unit Converter! 
+Here is a list of conversation to choose from: 
+Temperature(T),Currency(C),Mass(M) 
+Please enter the letter you want to convert.
+M
+Welcome to Mass Converter! 
+Here is a list of conversations to choose from: 
+Enter 1 for Kilogram to Gram. 
+Enter 2 for Tone to Kilogram. 
+1
+Please enter the kilogram amount: 
+1OO
+Gram: 1000
